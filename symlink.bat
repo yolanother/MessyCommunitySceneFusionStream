@@ -12,7 +12,9 @@ mklink /J _Project d:\Dropbox\Unity\projects\MessyCommunity\SceneFusionStream\As
 mklink /J DoubTech d:\Dropbox\Unity\projects\MessyCommunity\SceneFusionStream\Assets\DoubTech
 mklink /J KinematicSoup d:\Dropbox\Unity\projects\MessyCommunity\SceneFusionStream\Assets\KinematicSoup
 mklink /J PolygonFantasyKingdom d:\Dropbox\Unity\projects\MessyCommunity\SceneFusionStream\Assets\PolygonFantasyKingdom
+mklink /J HelpMePlace d:\Dropbox\Unity\projects\MessyCommunity\SceneFusionStream\Assets\HelpMePlace
 mklink PolygonFantasyKingdom.meta d:\Dropbox\Unity\projects\MessyCommunity\SceneFusionStream\Assets\PolygonFantasyKingdom.meta
 mklink KinematicSoup.meta d:\Dropbox\Unity\projects\MessyCommunity\SceneFusionStream\Assets\KinematicSoup.meta
 mklink DoubTech.meta d:\Dropbox\Unity\projects\MessyCommunity\SceneFusionStream\Assets\DoubTech.meta
 mklink _Project.meta d:\Dropbox\Unity\projects\MessyCommunity\SceneFusionStream\Assets\_Project.meta
+mklink HelpMePlace.meta d:\Dropbox\Unity\projects\MessyCommunity\SceneFusionStream\Assets\HelpMePlace.meta

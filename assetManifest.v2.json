@@ -6,6 +6,12 @@
             "id": "164532",
             "versionId": "1.02",
             "versionNumber": 577178
+        },
+        {
+            "name": "Help me Place! Editor Prefab Placement Assist",
+            "id": "191351",
+            "versionId": "1.2",
+            "versionNumber": 607525
         }
     ]
 }
