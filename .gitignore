@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Only include project files. Assets can be pulled via AM
+Assets/*
+!Assets/_Project
+!Assets/_Terrain*
+
