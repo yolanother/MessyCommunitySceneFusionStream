@@ -607,7 +607,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
   scriptingDefineSymbols:
-    1: SCENE_FUSION;DOUBTECH_ASSET_MANAGER
+    1: SCENE_FUSION;DOUBTECH_ASSET_MANAGER;ODIN_INSPECTOR
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
